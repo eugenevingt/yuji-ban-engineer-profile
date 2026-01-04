@@ -2,6 +2,7 @@ baseURL: "https://eugenevingt.github.io/yuji-ban-engineer-profile/"
 languageCode: "ja"
 title: "Yuji Ban"
 theme: hugo-profile
+canonifyURLs: true
 
 outputs:
   home:
