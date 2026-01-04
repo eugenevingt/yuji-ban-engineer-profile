@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app" #後で直す
+baseURL: "https://eugenevingt.github.io/yuji-ban-engineer-profile/"
 languageCode: "ja"
 title: "Yuji Ban"
 theme: hugo-profile
